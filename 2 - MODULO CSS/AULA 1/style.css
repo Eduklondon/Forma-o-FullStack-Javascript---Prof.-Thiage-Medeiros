@@ -1,0 +1,12 @@
+body {
+    background: blue;
+}
+
+h3 {
+    color: black;
+}
+
+.foto {
+    width: 100px;
+    border-radius: 10pt;
+}
